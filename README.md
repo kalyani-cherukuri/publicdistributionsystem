@@ -251,28 +251,6 @@ http://localhost:5173
 
 ---
 
-# Sample Login Credentials
-
-## ADMIN
-
-```text
-Email: admin@gmail.com
-Password: admin123
-```
-
-## SHOP_MANAGER
-
-```text
-Email: manager@gmail.com
-Password: manager123
-```
-
-## BENEFICIARY
-
-```text
-Email: ravi@gmail.com
-Password: 12345
-```
 
 ---
 
